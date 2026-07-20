@@ -1,0 +1,3 @@
+Files for bootstrapping certain features in my apps...
+
+bootstrap-price-charts-data.zip: Bootstrap price charts data in Open Crypto Tracker
